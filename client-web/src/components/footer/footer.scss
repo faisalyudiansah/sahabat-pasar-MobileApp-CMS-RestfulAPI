@@ -1,0 +1,19 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+  position: fixed;
+  bottom: 0;
+  width: 100%; /* Make sure the width spans the entire viewport */
+
+  span {
+    &:first-child {
+      font-weight: bold;
+    }
+
+    &:last-child {
+      font-size: 14px;
+    }
+  }
+}
