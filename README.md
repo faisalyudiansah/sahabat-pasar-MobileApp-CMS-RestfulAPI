@@ -2,9 +2,7 @@
 
 A streamlined Server-Client system integrating a Restful API, a user-friendly Mobile App for public
 access, and a Content Management System (CMS).<br>
-Tech stack: Node.js, Express.js, React JS, Vite, React Native, Expo Dev, Expo Map, Redux, MongoDB,
-Redis Labs, Sass, AXIOS, MVC, Cloudinary, JWT, Bcryptjs, Supertest, Jest, Firebase, AWS,
-Cloudflare, and Postman.
+Tech stack: Node.js, Express.js, React JS, Vite, React Native, Expo Dev, Expo Map, Redux, MongoDB, Redis Labs, MUI, Sass, AXIOS, MVC, Cloudinary, JWT, Bcryptjs, Supertest, Jest, Firebase, AWS, and Cloudflare.
 
 ## Run app
 - npm i (server, client-mobile, client-web)
